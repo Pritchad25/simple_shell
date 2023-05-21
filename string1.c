@@ -100,4 +100,5 @@ int _putchar(char c)
 		buf[d++] = c;
 	}
 	return (1);
+
 }
