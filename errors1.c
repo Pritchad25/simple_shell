@@ -143,4 +143,5 @@ void remove_comments(char *buf)
 			buf[u] = '\0';
 			break;
 		}
+
 }
